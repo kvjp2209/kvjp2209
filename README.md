@@ -2,7 +2,6 @@
 
 <img align='left' src='https://readme-stats-fabio-vicente.vercel.app/api?username=kvjp2209&count_private=true&show_icons=true&theme=dracula'/>
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kvjp2209&layout=compact'/>
-()
 <!--
 **kvjp2209/kvjp2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
